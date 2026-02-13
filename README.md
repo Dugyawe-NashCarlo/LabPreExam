@@ -1,5 +1,6 @@
 # DugyaweLabPreExam
 <img width="572" height="95" alt="image" src="https://github.com/user-attachments/assets/c43d9f03-58eb-4c51-bc6d-992fa3c13bc5" />
+<img width="888" height="558" alt="image" src="https://github.com/user-attachments/assets/e3ab91d6-6ceb-4939-8c30-d633540cf711" />
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.1.4.
 
